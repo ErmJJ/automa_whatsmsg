@@ -78,7 +78,7 @@ python enviar_whatsapp.py
 
 3. El mensaje se enviará automáticamente desde WhatsApp.
 
-4. Se te preguntará si deseas programar otro mensaje o finalizar.
+4. Se te preguntará si deseas programar otro mensaje o finalizar. (si no marcas una opción el programa finaliza)
 
 ---
 
@@ -113,20 +113,20 @@ Este proyecto está diseñado únicamente con fines educativos y de automatizaci
 
 ```
 whatsapp_scheduler/
-├── enviar_whatsapp.py
-├── PyWhatKit_DB.txt
-└── README.md
+├── WhatsMSG (Android).py
+├── WhatsMSG (WEB).py
+└── PyWhatKit_DB.txt (Se crea automaticamente)
 ```
 
----
-
-## 👨‍💻 Autor
-
-**J** - Proyecto para pruebas con ADB y automatización de mensajes.
 
 ---
 
-## 📝 Licencia
+### 📝 Licencia
 
 Este proyecto se distribuye bajo la licencia MIT.
 
+---
+
+## ‍💻 Desarrollado por
+- Julián Hernández  
+Profesional/Estudiante en Ingeniería Informática
